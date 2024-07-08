@@ -18,7 +18,7 @@ h1 {
 	width: 30%;
 	display: flex;
 	align-items: center;
-	justify-content: space-around;
+	justify-content: space-between;
 	padding: 1rem;
 	background-color: #fff;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -32,3 +32,43 @@ h1 {
 	border-radius: 50%;
 	cursor: pointer;
 }
+
+#blue{
+	background-color: rgb(68, 161, 228);
+	padding: 10px;
+	/* margin-left: 10px; */
+
+
+}
+
+#green{
+	background-color: rgb(33, 148, 33);
+	padding: 10px;
+	/* margin-left: 10px; */
+}
+
+#orange{
+	background-color: orange;
+	padding: 10px;
+	/* margin-left: 10px; */
+}
+
+#pink{
+	background-color: rgb(235, 64, 215);
+	padding: 10px;
+	/* margin-left: 10px; */
+}
+
+#purple{
+	background-color: rgb(177, 38, 177);
+	padding-left: 10px;
+	height: 20px;
+	width: 10px;
+	/* margin-left: 10px; */
+}
+/* 
+#yellow{
+	background-color: yellow;
+	padding-left: 10px;
+	margin-left: 10px;
+} */
